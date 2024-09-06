@@ -4,3 +4,6 @@ for i in range(b):
     print(" " * a, end="")
     a += 1
     print("Bonjour Emile")
+
+for i in range(b):
+    print(i, "*", b, " = ", i * b)
